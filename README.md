@@ -4,4 +4,4 @@
 I'm a computer science student at Carleton University in the Shopify Dev Degree program
 - Here's where I keep all my projects 😄
 - Check out my [website](https://devonpmack.github.io/) to learn more and how to contact me 📫 
-- Try my League of Legends pictionary game https://lolsketch.com
+- Try my League of Legends pictionary game [LoL Sketch](https://lolsketch.com)
