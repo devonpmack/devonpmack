@@ -5,3 +5,5 @@ I'm a computer science student at Carleton University in the Shopify Dev Degree 
 - Here's where I keep all my projects 😄
 - Check out my [website](https://devonpmack.github.io/) to learn more and how to contact me 📫 
 - Try my League of Legends pictionary game [LoL Sketch](https://lolsketch.com)
+[![Devon's github stats](https://github-readme-stats.vercel.app/api?username=devonpmack)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devonpmack&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
