@@ -8,4 +8,3 @@ I'm a computer science student at Carleton University in the Shopify Dev Degree 
 
 
 [![Devon's github stats](https://github-readme-stats.vercel.app/api?username=devonpmack)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devonpmack&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
