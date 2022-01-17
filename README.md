@@ -1,7 +1,9 @@
 # Devon Mack
 [![Website](https://img.shields.io/website?up_message=https%3A%2F%2Fdevonpmack.github.io%2F&url=https%3A%2F%2Fdavidhzhu.me%2F)](https://devonpmack.github.io/)
 ### Hi! 👋
-I'm a computer science student at Carleton University in the Shopify Dev Degree program
+I'm a full stack developer, recently graduated with a Bachelor of Computer Science from the [Shopify Dev Degree program](https://devdegree.ca/)
+- I like all types of software development, but I especially love to make games in my free time 
+- Some of my favourite technologies are Ruby on Rails, React, TypeScript, and Websockets.
 - Here's where I keep all my projects 😄
 - Check out my [website](https://devonpmack.github.io/) to learn more and how to contact me 📫 
 - Try my League of Legends pictionary game [LoL Sketch](https://lolsketch.com)
