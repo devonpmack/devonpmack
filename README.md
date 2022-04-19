@@ -9,4 +9,4 @@ I'm a full stack developer, recently graduated with a Bachelor of Computer Scien
 - Try my League of Legends pictionary game [LoL Sketch](https://lolsketch.com)
 
 
-[![Devon's github stats](https://github-readme-stats.vercel.app/api?username=devonpmack)](https://github.com/anuraghazra/github-readme-stats)
+[![Devon's github stats](https://github-readme-stats.vercel.app/api?username=devonpmack&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
