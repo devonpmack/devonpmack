@@ -3,7 +3,7 @@
 ### Hi! 👋
 I'm a full stack developer, recently graduated with a Bachelor of Computer Science from the [Shopify Dev Degree program](https://devdegree.ca/)
 - I like all types of software development, but I especially love to make games in my free time 
-- Some of my favourite technologies are Ruby on Rails, React, TypeScript, and Websockets.
+- Some of my favourite technologies are TypeScript, React, Ruby on Rails, and Websockets.
 - Here's where I keep all my projects 😄
 - Check out my [website](https://devonpmack.github.io/) to learn more and how to contact me 📫 
 - Try my League of Legends pictionary game [LoL Sketch](https://lolsketch.com)
