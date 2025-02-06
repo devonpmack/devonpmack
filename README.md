@@ -5,4 +5,3 @@
 - 💻 I use TypeScript, React, Ruby on Rails, and Websockets a lot.
 - 📫 Check out my [website](https://devonpmack.github.io/) to learn more and how to contact me
 - 🎨 Try my League of Legends pictionary game [LoL Sketch](https://lolsketch.com)
-- WIP website: https://www.bazaarbuddy.app/
