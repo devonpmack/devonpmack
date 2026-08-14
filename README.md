@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="days.svg" width="640" alt="days, nights, before, started" />
+  <img src="log.svg" width="640" alt="git log --oneline" />
 </p>
 
 <p align="center">
