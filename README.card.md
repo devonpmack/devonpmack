@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="log.svg" width="640" alt="git log --oneline" />
+  <img src="word.svg" width="520" alt="your word is DEVON" />
 </p>
 
 <p align="center">

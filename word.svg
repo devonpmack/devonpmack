@@ -25,5 +25,5 @@
   <text class="label" x="360" y="82" text-anchor="middle">YOUR WORD IS</text>
   <text class="word" x="360" y="176" text-anchor="middle">DEVON</text>
   <path class="stroke" d="M208 200 C 290 208, 430 194, 516 204" stroke-width="1.75"/>
-  <text class="hint" x="360" y="244" text-anchor="middle">draw something people will play</text>
+  <text class="hint" x="360" y="244" text-anchor="middle">fullstack · ottawa · ships</text>
 </svg>

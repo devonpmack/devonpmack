@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="360" viewBox="0 0 760 360" role="img" aria-labelledby="title">
+  <title id="title">git log  devon</title>
+  <defs>
+    <style>
+      .bg { fill: #f4ecdc; }
+      .panel { fill: none; stroke: #2a241c; stroke-width: 2; }
+      .prompt { fill: #8a7d6b; font: 600 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      .hash { font: 700 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      .msg { fill: #1c1814; font: 500 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      .meta { fill: #8a7d6b; font: 500 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      .rail { stroke: #c4b49a; stroke-width: 2; }
+      .h1 { fill: #c45c26; } .d1 { fill: #c45c26; }
+      .h2 { fill: #1f7a6b; } .d2 { fill: #1f7a6b; }
+      .h3 { fill: #6b4ea0; } .d3 { fill: #6b4ea0; }
+      .h4 { fill: #2b6cb0; } .d4 { fill: #2b6cb0; }
+      .h5 { fill: #b43d5a; } .d5 { fill: #b43d5a; }
+      @media (prefers-color-scheme: dark) {
+        .bg { fill: #16130f; }
+        .panel { stroke: #eadfcb; }
+        .prompt { fill: #b5a48c; }
+        .msg { fill: #f3ead8; }
+        .meta { fill: #b5a48c; }
+        .rail { stroke: #5c5348; }
+        .h1 { fill: #f0a36a; } .d1 { fill: #f0a36a; }
+        .h2 { fill: #5fd0bc; } .d2 { fill: #5fd0bc; }
+        .h3 { fill: #c4a6ff; } .d3 { fill: #c4a6ff; }
+        .h4 { fill: #7eb6f0; } .d4 { fill: #7eb6f0; }
+        .h5 { fill: #f08aa3; } .d5 { fill: #f08aa3; }
+      }
+    </style>
+  </defs>
+  <rect class="bg" width="760" height="360"/>
+  <rect class="panel" x="28" y="22" width="704" height="316" rx="10"/>
+  <text class="prompt" x="56" y="58">$ git log --oneline</text>
+  <line class="rail" x1="68" y1="92" x2="68" y2="310"/>
+  <circle class="d1" cx="68" cy="92" r="6"/>
+  <text class="hash h1" x="92" y="97">eec122a</text>
+  <text class="msg" x="180" y="97">still here</text>
+  <text class="meta" x="560" y="97">HEAD ’ main</text>
+  <circle class="d2" cx="68" cy="142" r="6"/>
+  <text class="hash h2" x="92" y="147">8f10980</text>
+  <text class="msg" x="180" y="147">senior fullstack</text>
+  <text class="meta" x="560" y="147">stackadapt</text>
+  <circle class="d3" cx="68" cy="192" r="6"/>
+  <text class="hash h3" x="92" y="197">71682f5</text>
+  <text class="msg" x="180" y="197">production engineering</text>
+  <text class="meta" x="560" y="197">shopify</text>
+  <circle class="d4" cx="68" cy="242" r="6"/>
+  <text class="hash h4" x="92" y="247">3e467a0</text>
+  <text class="msg" x="180" y="247">the degree that was also a job</text>
+  <text class="meta" x="560" y="247">shopify / carleton</text>
+  <circle class="d5" cx="68" cy="292" r="6"/>
+  <text class="hash h5" x="92" y="297">2113096</text>
+  <text class="msg" x="180" y="297">first game</text>
+  <text class="meta" x="560" y="297">GameMaker</text>
+</svg>
