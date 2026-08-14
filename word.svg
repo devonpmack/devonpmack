@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="300" viewBox="0 0 720 300" role="img" aria-labelledby="title">
+  <title id="title">your word is DEVON</title>
+  <defs>
+    <style>
+      .paper { fill: #f4ecdc; }
+      .stroke { fill: none; stroke: #2a241c; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; }
+      .label { fill: #8a7d6b; font: 600 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 0.42em; }
+      .word { fill: #1c1814; font: 700 86px Georgia, "Iowan Old Style", "Palatino Linotype", serif; }
+      .hint { fill: #6e6558; font: 500 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 0.16em; }
+      @media (prefers-color-scheme: dark) {
+        .paper { fill: #16130f; }
+        .stroke { stroke: #eadfcb; }
+        .label { fill: #b5a48c; }
+        .word { fill: #f3ead8; }
+        .hint { fill: #c4b49a; }
+      }
+    </style>
+  </defs>
+  <rect class="paper" width="720" height="300"/>
+  <path class="stroke" d="M30 26
+    C 190 16, 520 18, 690 28
+    C 702 90, 704 210, 692 274
+    C 500 286, 200 284, 28 272
+    C 16 200, 18 90, 30 26 Z"/>
+  <text class="label" x="360" y="82" text-anchor="middle">YOUR WORD IS</text>
+  <text class="word" x="360" y="176" text-anchor="middle">DEVON</text>
+  <path class="stroke" d="M208 200 C 290 208, 430 194, 516 204" stroke-width="1.75"/>
+  <text class="hint" x="360" y="244" text-anchor="middle">draw something people will play</text>
+</svg>
