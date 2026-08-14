@@ -1,11 +1,7 @@
-<p align="center">
-  <img src="word.svg" width="520" alt="your word is DEVON" />
-</p>
+![whoami](https://user-images.githubusercontent.com/21130966/185241663-66846b03-c962-448f-b29f-d5833fe228ed.gif)
 
-I built [**LoL Sketch**](https://lolsketch.com) — realtime pictionary for League of Legends. Rooms, Discord Activity, still shipping years later.
-
-Days: senior fullstack at [StackAdapt](https://www.stackadapt.com). Before that, Shopify — Dev Degree, then production engineering.
-
-Started in GameMaker. Still think in rounds.
-
-[lolsketch.com](https://lolsketch.com) · [site](https://devonpmack.github.io) · [mail](mailto:devonpmack@gmail.com)
+- 🎮 I fell in love with coding through game development
+- 💅 Building great user/developer experiences is my passion
+- 💻 I use TypeScript, React, Ruby on Rails, and Websockets a lot.
+- 📫 Check out my [website](https://devonpmack.github.io/) to learn more and how to contact me
+- 🎨 Try my League of Legends pictionary game [LoL Sketch](https://lolsketch.com)
