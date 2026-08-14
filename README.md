@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="word.svg" width="520" alt="your word is DEVON" />
+  <img src="days.svg" width="640" alt="days, nights, before, started" />
 </p>
 
-I built [**LoL Sketch**](https://lolsketch.com) — realtime pictionary for League of Legends. Rooms, Discord Activity, still shipping years later.
+<p align="center">
+  <img src="badges.svg" width="400" alt="StackAdapt · Dev Degree · Toronto" />
+</p>
 
-Days: senior fullstack at [StackAdapt](https://www.stackadapt.com). Before that, Shopify — Dev Degree, then production engineering.
+Senior fullstack at [StackAdapt](https://www.stackadapt.com). Shopify Dev Degree alumni. I still run [LoL Sketch](https://lolsketch.com) at night.
 
-Started in GameMaker. Still think in rounds.
-
-[lolsketch.com](https://lolsketch.com) · [site](https://devonpmack.github.io) · [mail](mailto:devonpmack@gmail.com)
+[site](https://devonpmack.github.io) · [lolsketch.com](https://lolsketch.com) · [mail](mailto:devonpmack@gmail.com)

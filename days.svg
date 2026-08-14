@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="340" viewBox="0 0 760 340" role="img" aria-labelledby="title">
+  <title id="title">days and nights</title>
+  <defs>
+    <style>
+      .bg { fill: #f4ecdc; }
+      .panel { fill: none; stroke: #2a241c; stroke-width: 2; }
+      .k { fill: #8a7d6b; font: 600 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 0.28em; }
+      .v { fill: #1c1814; font: 600 18px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      .s { fill: #6e6558; font: 500 14px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      .rule { stroke: #c4b49a; stroke-width: 1.25; }
+      @media (prefers-color-scheme: dark) {
+        .bg { fill: #16130f; }
+        .panel { stroke: #eadfcb; }
+        .k { fill: #b5a48c; }
+        .v { fill: #f3ead8; }
+        .s { fill: #c4b49a; }
+        .rule { stroke: #5c5348; }
+      }
+    </style>
+  </defs>
+  <rect class="bg" width="760" height="340"/>
+  <rect class="panel" x="28" y="22" width="704" height="296" rx="10"/>
+  <text class="k" x="64" y="70">DAYS</text>
+  <text class="v" x="64" y="102">senior fullstack</text>
+  <text class="s" x="64" y="128">stackadapt</text>
+  <text class="k" x="64" y="178">NIGHTS</text>
+  <text class="v" x="64" y="210">lolsketch.com</text>
+  <text class="s" x="64" y="236">still shipping</text>
+  <line class="rule" x1="400" y1="48" x2="400" y2="292"/>
+  <text class="k" x="432" y="70">BEFORE</text>
+  <text class="v" x="432" y="102">shopify</text>
+  <text class="s" x="432" y="128">dev degree alumni</text>
+  <text class="k" x="432" y="178">STARTED</text>
+  <text class="v" x="432" y="210">GameMaker</text>
+  <text class="s" x="432" y="236">still think in rounds</text>
+</svg>

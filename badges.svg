@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="48" viewBox="0 0 560 48" role="img" aria-label="StackAdapt, Dev Degree, Toronto">
+  <defs>
+    <style>
+      .pill { fill: #f4ecdc; stroke: #2a241c; stroke-width: 1.5; }
+      .label { fill: #1c1814; font: 600 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 0.08em; }
+      @media (prefers-color-scheme: dark) {
+        .pill { fill: #16130f; stroke: #eadfcb; }
+        .label { fill: #f3ead8; }
+      }
+    </style>
+  </defs>
+  <rect class="pill" x="1" y="6" width="168" height="36" rx="18"/>
+  <text class="label" x="85" y="29" text-anchor="middle">STACKADAPT</text>
+  <rect class="pill" x="181" y="6" width="196" height="36" rx="18"/>
+  <text class="label" x="279" y="29" text-anchor="middle">DEV DEGREE</text>
+  <rect class="pill" x="389" y="6" width="154" height="36" rx="18"/>
+  <text class="label" x="466" y="29" text-anchor="middle">TORONTO</text>
+</svg>
