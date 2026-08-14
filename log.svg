@@ -33,7 +33,7 @@
       }
     </style>
   </defs>
-  <rect class="bg" width="760" height="360"/>
+  <rect class="bg" width="760" height="428"/>
   <rect class="panel" x="28" y="22" width="704" height="384" rx="10"/>
   <text class="prompt" x="56" y="58">$ git log --oneline</text>
   <line class="rail" x1="68" y1="92" x2="68" y2="310"/>
